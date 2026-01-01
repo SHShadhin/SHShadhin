@@ -1,16 +1,31 @@
-## Hi there 👋
+### Hi there 👋, I'm SH Shadhin
+#### Web Developer
+![Web Developer](https://www.facebook.com/photo/?fbid=188771500828948&set=a.188771524162279)
 
-<!--
-**SHShadhin/SHShadhin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m a beginner web developer who is currently learning HTML, CSS, and JavaScript.
+I enjoy building simple projects, practicing every day, and improving step by step.
 
-Here are some ideas to get you started:
+💻 Right now, I’m focused on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Understanding web fundamentals
+
+Creating small front-end projects
+
+Writing clean and simple code
+
+Learning through practice and mistakes
+
+🚀 My goal is to become a skilled web developer by continuously learning and building real projects.
+
+Skills:  React.js / Javascript / HTML / CSS
+
+- 🔭 I’m currently working on Web Development 
+- 🌱 I’m currently learning Javascript 
+- 👯 I’m looking to collaborate on Github 
+- 💬 Ask me about Web Development 
+- 📫 How to reach me: shsha@gmail.com 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/SHShadhin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sh-shadhin//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100090882987968&sk=about)  
+
+
